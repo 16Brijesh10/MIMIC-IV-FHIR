@@ -11,7 +11,7 @@ file represents an individual patient json file.
 represents a json referencing a specific disease that was assigned to a patient. The json
 object also references an encounter that was associated with each such condition.
 “Encounter.json” file contains the details of an encounter in each line.
-Your goal in this assignment is to:
+my goal in this assignment is to:
 1. Get familiar with the json object format contained in each line of the 4 files:
 a. Patient.ndjson
 b. Condition.ndjson
